@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "name": "C++",
+      "description": "Backend",
+      "imageId": "c++.jpg",
+      "id": 1
+    },
+    {
+      "name": "js",
+      "description": "fe",
+      "imageId": "js.jpg",
+      "id": 2
+    },
+    {
+      "name": "Java",
+      "imageId": "java.jpg",
+      "description": "Backend",
+      "id": 3
+    },
+    {
+      "name": "HTML",
+      "imageId": "html.jpg",
+      "description": "FE",
+      "id": 4
+    },
+    {
+      "name": "ruby",
+      "description": "backend",
+      "imageId": "ruby.jpg",
+      "id": 5
+    }
+  ]
+}
